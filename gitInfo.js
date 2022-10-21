@@ -38,7 +38,7 @@ const gitInitDefinition = "The git init command creates a new git repository, de
 */
 
 //CODE HERE
-const gitCloneDefinition = "The git clone command is used by developers to creat a copy of an existing repo or clone a copy to a new directory in a deifferent location."
+const gitCloneDefinition = "The git clone command is used by developers to creat a copy of an existing repo from someones git hub profile."
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -47,7 +47,7 @@ const gitCloneDefinition = "The git clone command is used by developers to creat
 */
 
 //CODE HERE
-const gitStatusDefinition = "The git status command is used by developers to display the state of a working directory and the stageing area it lets you see what changes have been made and what code is being tracked by git."
+const gitStatusDefinition = "The git status command is used by developers to display the status of the current files in a git repo ."
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -59,7 +59,7 @@ const gitStatusDefinition = "The git status command is used by developers to dis
 */
 
 //CODE HERE
-const gitAddDefinition = "The got add command is used by developers to add changes of your code to the staging area"
+const gitAddDefinition = "The git add command is used by developers to add changes of your code to the staging area"
 const gitAddCode = "git add ."
 //////////////////PROBLEM 7////////////////////
 /*
@@ -71,8 +71,8 @@ const gitAddCode = "git add ."
 */
 
 //CODE HERE
-const gitCommitDefinition = "the got commit command is used by develpopers to create a snapsh ot of the projects currently staged changes."
-const gitCommitCode = 'got commit m- "initial commit"'
+const gitCommitDefinition = "the git commit command is used by develpopers to create a checkpoint of the projects currently staged changes."
+const gitCommitCode = 'got commit -m "initial commit"'
 
 
 //////////////////PROBLEM 8////////////////////
